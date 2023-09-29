@@ -1,3 +1,4 @@
 # My-Notes-App
-![Screenshot_2023-09-29-11-33-03-429_com example mynotes](https://github.com/Parthib17/My-Notes-App/assets/89259328/fb7bc4a8-9d56-4035-a740-38ebeaa54869)
-![Screenshot_2023-09-29-11-33-10-453_com example mynotes](https://github.com/Parthib17/My-Notes-App/assets/89259328/bf969a71-d1a1-43ec-ab67-b5f2185f60c0)
+
+![1695967521090_100](https://github.com/Parthib17/My-Notes-App/assets/89259328/68e655b0-524d-4c54-acf9-5b1c55a41d64)
+![1695967527022_100](https://github.com/Parthib17/My-Notes-App/assets/89259328/f1f0e7d7-3d54-47b9-8362-59a98a2e74d7)
